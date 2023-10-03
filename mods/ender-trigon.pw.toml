@@ -1,0 +1,13 @@
+name = "Ender Trigon"
+filename = "endertrigon-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25c85b1ab02c7c1f8f9738fa7168b2b11c4c85fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942476
+project-id = 662563

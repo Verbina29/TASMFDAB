@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-forge-1.1.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/BxueFKJA/deeperdarker-forge-1.1.6-forge.jar"
+hash-format = "sha1"
+hash = "74cdf566a59c6d5a4fc58d4a734b05bd234cec75"
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "BxueFKJA"

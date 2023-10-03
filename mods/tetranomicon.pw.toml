@@ -1,0 +1,13 @@
+name = "Tetranomicon"
+filename = "tetranomicon-1.4.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29093093d7dca2ba4141f4f0b91baccf5c0a5636"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4514067
+project-id = 445385

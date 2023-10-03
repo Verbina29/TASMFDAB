@@ -1,0 +1,13 @@
+name = "Why Not Be One Item"
+filename = "wnboi-0.0.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L8iJY5PM/versions/CGOxDu7M/wnboi-0.0.4-forge.jar"
+hash-format = "sha1"
+hash = "4acfa788af2ac401383343dd09fe8060abfcc983"
+
+[update]
+[update.modrinth]
+mod-id = "L8iJY5PM"
+version = "CGOxDu7M"

@@ -1,0 +1,13 @@
+name = "The Bumblezone - Forge"
+filename = "the_bumblezone_forge-6.7.35+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38tpSycf/versions/LT7a4qsr/the_bumblezone_forge-6.7.35%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "8302835a927e432864b25261f1f3e0ab41dfda2b"
+
+[update]
+[update.modrinth]
+mod-id = "38tpSycf"
+version = "LT7a4qsr"

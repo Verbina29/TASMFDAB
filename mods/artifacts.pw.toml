@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-1.19.2-5.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/b349kUSi/artifacts-1.19.2-5.0.4.jar"
+hash-format = "sha1"
+hash = "a6f4060cfc6e0c7805d69f7c9862419e28004709"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "b349kUSi"

@@ -1,0 +1,13 @@
+name = "Swashbucklers"
+filename = "Swashbucklers+2.5+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g6bnDQis/versions/C5yIhjpk/Swashbucklers%2B2.5%2B1.19.jar"
+hash-format = "sha1"
+hash = "43919b0be8ce24180d71c05f0a881a8639ebb1ff"
+
+[update]
+[update.modrinth]
+mod-id = "g6bnDQis"
+version = "C5yIhjpk"

@@ -1,0 +1,13 @@
+name = "Dimensional Threading Reforged (Unofficial)"
+filename = "Dimensional-Threading-Reforged-1.19.2-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5798b355dad5b6f88d7b5495912b3ff2d3cd56d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4518057
+project-id = 843373

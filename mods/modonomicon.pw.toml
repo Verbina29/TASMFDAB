@@ -1,0 +1,13 @@
+name = "Modonomicon"
+filename = "modonomicon-1.19.2-1.34.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/JoNsAUCa/modonomicon-1.19.2-1.34.0.jar"
+hash-format = "sha1"
+hash = "1e22f328ee48ad003908efd039af2d3b34ad0704"
+
+[update]
+[update.modrinth]
+mod-id = "692GClaE"
+version = "JoNsAUCa"

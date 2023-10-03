@@ -1,0 +1,13 @@
+name = "Knight Quest"
+filename = "KnightQuest1.2.7.Patch.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dbb8a5ee6d4f7f9b07d4f1c211d196d2bad7be2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4587515
+project-id = 687679

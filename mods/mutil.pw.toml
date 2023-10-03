@@ -1,0 +1,13 @@
+name = "mutil"
+filename = "mutil-1.19.2-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HWHl8Evb/versions/roxSrtK7/mutil-1.19.2-5.1.0.jar"
+hash-format = "sha1"
+hash = "fbb4d94a151c9a0e3128889391d4d36b34fb8880"
+
+[update]
+[update.modrinth]
+mod-id = "HWHl8Evb"
+version = "roxSrtK7"

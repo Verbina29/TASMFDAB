@@ -1,0 +1,13 @@
+name = "Enigmatic Legacy"
+filename = "EnigmaticLegacy-2.26.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IpUWAlqM/versions/9pdtGQb7/EnigmaticLegacy-2.26.5.jar"
+hash-format = "sha1"
+hash = "f1467614274adddc5487349991cf7f3383118539"
+
+[update]
+[update.modrinth]
+mod-id = "IpUWAlqM"
+version = "9pdtGQb7"

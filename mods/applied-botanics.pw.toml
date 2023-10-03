@@ -1,0 +1,13 @@
+name = "Applied Botanics"
+filename = "Applied-Botanics-forge-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/LqAhPp6K/Applied-Botanics-forge-1.4.5.jar"
+hash-format = "sha1"
+hash = "01ecc7009d6a343257a0f7c289d93e8e4efad7ed"
+
+[update]
+[update.modrinth]
+mod-id = "545hUrw9"
+version = "LqAhPp6K"

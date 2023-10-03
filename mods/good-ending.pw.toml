@@ -1,0 +1,13 @@
+name = "Good Ending"
+filename = "Good Ending-1.19.2-1.0.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf08f361142b635a777077c7e7745aeaf2258d54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4363719
+project-id = 690161

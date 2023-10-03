@@ -1,0 +1,13 @@
+name = "Forgotten Delight"
+filename = "Forgotten_Delight_1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1d4dc8bb2f384523ae6a857fb550bdc25d42e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4535109
+project-id = 854364

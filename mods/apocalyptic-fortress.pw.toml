@@ -1,0 +1,13 @@
+name = "Apocalyptic Fortress"
+filename = "hexfortress-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l1GwAgmU/versions/sGrdUeJf/hexfortress-0.0.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "ffdc315b0a36e7e0f1f61856757a7ed766c11714"
+
+[update]
+[update.modrinth]
+mod-id = "l1GwAgmU"
+version = "sGrdUeJf"

@@ -1,0 +1,13 @@
+name = "PneumaticCraft: Repressurized"
+filename = "pneumaticcraft-repressurized-1.19.2-4.3.8-35.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/YpdnthMR/pneumaticcraft-repressurized-1.19.2-4.3.8-35.jar"
+hash-format = "sha1"
+hash = "eedf89320ef489f4df67e579d591a72bf6f263f5"
+
+[update]
+[update.modrinth]
+mod-id = "ncAcdgk7"
+version = "YpdnthMR"

@@ -1,0 +1,13 @@
+name = "The Lost Castle"
+filename = "tlc_forge-1.0.2-R-1.19.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/eiyqt0cv/tlc_forge-1.0.2-R-1.19.X.jar"
+hash-format = "sha1"
+hash = "08fcdcaa5b26001c004cd5ce4cf8dbc050caa0b4"
+
+[update]
+[update.modrinth]
+mod-id = "FGlHZl7X"
+version = "eiyqt0cv"
