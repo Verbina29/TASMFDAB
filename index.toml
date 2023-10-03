@@ -146,6 +146,11 @@ hash = "616a82f6b6c5e5015eade7fe0424508137ef340b2ec57a2554b10a011a345bf3"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "23d903d451da7ad4ef0ee54ca7cd6ad024465d21521abd8452d75450c3ed0bc1"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "aff5d172f2ef0d9f9a8e2ce00d5fcc864cafb15dc929d9e95e5d08e295fe7258"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-plus.pw.toml"
 hash = "8e0f5af61a6236cbf9df91a45b94c45d02e1e08fe88edcded121f46a575f2575"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "75b290b4f74a5e0bc0b8cdfa4307d4b53725362185a12b55b90d207f31c618b8"
 metafile = true
 
 [[files]]
@@ -386,6 +396,11 @@ hash = "08b87444b18f6dcfe664c0acc308c30066c7ca3b2ae8324e1c86eab690c5860a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+metafile = true
+
+[[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
 metafile = true
@@ -468,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b5292abed469471b736d2b9f47b21d861e9b6cbf332a225e781bb47aca40d3a3"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "778ca28201a5a4ce8b7249187eebad049cb52d9e9abab3313e0421a1090115da"
 metafile = true
 
 [[files]]
@@ -636,8 +656,18 @@ hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "2c7c01daa3bd29c48ac89a841f15ded313ad3c3cd3e4245deb45cc269bce22ac"
+metafile = true
+
+[[files]]
 file = "mods/secrets-of-forging-revelations-a-tetra-addon.pw.toml"
 hash = "a5dd5b8df96bb984e40bd43a3ff1c38b5c9bf3d69859d34e378d8743b9ce33c4"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "44cdfebd9730a32fb81e4ca540e1813aa4d3974b4d0ac589868b77ef4e66a1c6"
 metafile = true
 
 [[files]]
