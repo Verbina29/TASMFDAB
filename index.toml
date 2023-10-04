@@ -806,11 +806,6 @@ hash = "723ab48d700ab75d2a2d13e08dcdd57955b1def406d8bf7c150475b0c7331358"
 metafile = true
 
 [[files]]
-file = "mods/twilight-delight.pw.toml"
-hash = "e85208e6207f575172d9e535fa9fb84d9876a67bbf15432d33aa3f371cd6696d"
-metafile = true
-
-[[files]]
 file = "mods/undergarden-tetra-patch.pw.toml"
 hash = "1f371f240b71c83152d7d4cd731e2732e3497dde47722ae88f3d707827dfca14"
 metafile = true
