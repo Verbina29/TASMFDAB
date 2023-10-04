@@ -136,11 +136,6 @@ hash = "00cb4565f09eb467ceb0d56f519196204c2486759963bb204c5e88559ed1ad6a"
 metafile = true
 
 [[files]]
-file = "mods/better-paragliders.pw.toml"
-hash = "87d33ed1ce196192cebdbb0b724f0c70df8d18fd412454420dd403c9b5572cc5"
-metafile = true
-
-[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "92ef5eeacae2ae73c478e5b829a03e91f2b0a364cf2c72bd75884b537ae720ca"
 metafile = true
