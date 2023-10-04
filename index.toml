@@ -151,6 +151,11 @@ hash = "7fa004b13e7bc5024e529e77e1f9eed9111d4652aaaf23c7054325a474623c42"
 metafile = true
 
 [[files]]
+file = "mods/borderless.pw.toml"
+hash = "4b75fd7d47d17dd2b68d4e28417364c997cd3acbff194f73ef80ed8bba588189"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "aff5d172f2ef0d9f9a8e2ce00d5fcc864cafb15dc929d9e95e5d08e295fe7258"
 metafile = true
