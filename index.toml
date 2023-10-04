@@ -11,6 +11,11 @@ hash = "0dfac3aab61b38a98749d57a1f3d00796dcda711998fd2631d85a50ff5a8bd7a"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
+metafile = true
+
+[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
@@ -391,6 +396,11 @@ hash = "5ea6214110df327b525a2f2ad5956ebe0af16929f92a08209ba229a3506d8685"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "7bfc6fd8a94e02e289c31c8500215abdfbbb29f92535ebceeb7a76ffb7efb251"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
 metafile = true
@@ -453,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "ed9294e17b26a43a4740fc020b18863166894d08103e93290993c1344ea37620"
 metafile = true
 
 [[files]]
