@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Desert Temples Compat"
+filename = "Repurposed_Structures-Better_Desert_Temples_v7.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mKaYfrOy/versions/E3gUs71c/Repurposed_Structures-Better_Desert_Temples_v7.zip"
+hash-format = "sha1"
+hash = "2afcc3f16060d7d5907b0559b6e38fc7b83c41a5"
+
+[update]
+[update.modrinth]
+mod-id = "mKaYfrOy"
+version = "E3gUs71c"

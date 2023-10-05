@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Friends and Foes Compat"
+filename = "Repurposed_Structures-Friends_And_Foes_v3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYd23ZmY/versions/MaDvxyS5/Repurposed_Structures-Friends_And_Foes_v3.zip"
+hash-format = "sha1"
+hash = "0de59daf4183db112f343b7f8a683946eeb0bc4f"
+
+[update]
+[update.modrinth]
+mod-id = "UYd23ZmY"
+version = "MaDvxyS5"

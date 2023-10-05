@@ -1,6 +1,61 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/repurposed-structures-apocalyptic-fortress-compat.pw.toml"
+hash = "e696890e72684f6df6f7179b0c711a6dc47b762c1cdb89d6098539b727d76363"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "d8d6dd310cc92d308db3a442442f84927ca5267f56488c1f4b59c18e2748640f"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "090d34c4b3aa77fd11eacea4ea2ba002752af676a98de65d2f965add7262244a"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-jungle-temples.pw.toml"
+hash = "a608a4fe70056ab9817cab0f4e70bf9d9d2bd5206d8e7468dae349f78713df52"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "31be6fb1517d90150e595dd46ed4168dc362af8efe9e1a6b2ee1c4cb0a6d6e29"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "9b6ec6ed49f137aa14075bb049a41b1148ae82efb89313c5d235ce5e51ac5d32"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-chefs-delight-compat.pw.toml"
+hash = "afdcc82a1cd4191594f04b074e9dca0e6a7aa444b0b1fcc3cfe9f6b437de4d46"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "815455029d3820691d224abe958f7162dae8b5d806c8f1cfcb1a6bf140d6a78b"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "98c9998daec7f646f02e675f50fcf3288eb17c5c0a3dfcd4d6a3c37044a4540d"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-oh-the-biomes-youll-go-compat.pw.toml"
+hash = "269b33b8d962e01fd3da9f499554475530301df6f93ba566edd95e2ef1746249"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-pneumaticcraft-repressurized-compat.pw.toml"
+hash = "75705ed2a85779fa19e1164df0b5162bd0b3a8f0fb9ccc1059deb2d5112e3221"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "4e39ccb7de4aff79642cd136f46377f41c9573c2848a9e39190d9a4b6266c65c"
 metafile = true
@@ -258,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-plus.pw.toml"
 hash = "8e0f5af61a6236cbf9df91a45b94c45d02e1e08fe88edcded121f46a575f2575"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "2c947159a3c1922d90420fabce6c228b8cf6663498f7ffe592ac025e069730c5"
 metafile = true
 
 [[files]]
@@ -601,6 +661,11 @@ hash = "2f06c280c102a86f1d34e439948f3c4054b80211272411247fa21b9abf7d11c6"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "01a057038ff0001c216ed30504059aa681151010aa9b2810214e166de1da61a8"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
 metafile = true
@@ -618,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5e3c1bece72d73338583e26b5018819b10eada276ebc07af41d1417f7f8d8d0e"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "22d931365312d6aeee6596362265172cb2b8cd7080563cdd7f3ac97845be5883"
 metafile = true
 
 [[files]]
@@ -683,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "91aa2992a453ab314e0394ecb365a413cdcaf828749fe282da793157227c144c"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-quark+-compat.pw.toml"
+hash = "0707618586ba54e82b8554d1db5d30e2e7f3869eb9e114be2d5f61a6b7b53280"
 metafile = true
 
 [[files]]
@@ -758,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/swashbucklers.pw.toml"
 hash = "23bd877399ee449217b0fc6032f382cf4f0b9a7a8efacfcd80854741ee28fab5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "aca72bb930f282a424763ae45f941f1c0ff17810c9ac4ed59bdd29b903657927"
 metafile = true
 
 [[files]]

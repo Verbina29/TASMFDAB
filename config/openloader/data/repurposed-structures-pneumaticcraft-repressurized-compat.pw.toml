@@ -1,0 +1,13 @@
+name = "Repurposed Structures - PneumaticCraft: Repressurized Compat"
+filename = "Repurposed_Structures-PneumaticCraft_Repressurized_v3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpyBGfGz/versions/hD8wQAsd/Repurposed_Structures-PneumaticCraft_Repressurized_v3.zip"
+hash-format = "sha1"
+hash = "ee348cfe89c05e893c46d59a5ce9508a14e6c5df"
+
+[update]
+[update.modrinth]
+mod-id = "VpyBGfGz"
+version = "hD8wQAsd"

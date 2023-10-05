@@ -1,0 +1,13 @@
+name = "Repurposed Structures Quark Compat"
+filename = "Repurposed_Structures_Quark_Compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAHONPGW/versions/65hNqaca/Repurposed_Structures_Quark_Compat.zip"
+hash-format = "sha1"
+hash = "a24c69c449882cfd8a51ff3e1e9070fe74c5d60f"
+
+[update]
+[update.modrinth]
+mod-id = "eAHONPGW"
+version = "65hNqaca"

@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Apocalyptic Fortress Compat"
+filename = "Repurposed_Structures-Apocalyptic_Fortress_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5yebye0l/versions/oCY0wVsJ/Repurposed_Structures-Apocalyptic_Fortress_v2.zip"
+hash-format = "sha1"
+hash = "2a23b3005d07c6ddbd07cf957fac524531538f03"
+
+[update]
+[update.modrinth]
+mod-id = "5yebye0l"
+version = "oCY0wVsJ"
