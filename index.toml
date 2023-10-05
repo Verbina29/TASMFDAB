@@ -811,6 +811,11 @@ hash = "9dfa946fa7c878c945f1d37f4b8131f0cb51e137c23a423be7d804bed9142c01"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
+metafile = true
+
+[[files]]
 file = "mods/stalwart-dungeons.pw.toml"
 hash = "ff128ff48e0d98d5bc0490e8a81aa2d350b967e40d2c0ecdd444d1a923eda28f"
 metafile = true
@@ -833,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/swashbucklers.pw.toml"
 hash = "23bd877399ee449217b0fc6032f382cf4f0b9a7a8efacfcd80854741ee28fab5"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "aca72bb930f282a424763ae45f941f1c0ff17810c9ac4ed59bdd29b903657927"
 metafile = true
 
 [[files]]
