@@ -671,6 +671,11 @@ hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "eb33e2c8ec06d4242a1fc4bd3c7176754274d3a271d601f853179e75ac134d69"
 metafile = true
