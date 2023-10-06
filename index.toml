@@ -331,11 +331,6 @@ hash = "58f1d986055695cc94eda91412dc509c47d7b68e5acbce9743a5d0f0609c0b65"
 metafile = true
 
 [[files]]
-file = "mods/endless-biomes.pw.toml"
-hash = "ec92801dfcbad21116ff9cf1c3659cf699f545ffcd93e088d2a4d3fb7c640e6d"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "e04bcd0d75d655998cd976406d1bc476239fb0c2f52d36a62686a48bba4b554f"
 metafile = true
@@ -353,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/enigmatic-legacy.pw.toml"
 hash = "2a690a8f5335239b66b164759e737e5956c3cdcf820ab277bb5cc1fcd20ab9c6"
-metafile = true
-
-[[files]]
-file = "mods/enlightend.pw.toml"
-hash = "b211818ff3c05e4d794dd593046a2aabf4dc85eba73a43d5fbceef857384c8a0"
 metafile = true
 
 [[files]]
@@ -933,11 +923,6 @@ metafile = true
 [[files]]
 file = "mods/undergarden-tetra-patch.pw.toml"
 hash = "1f371f240b71c83152d7d4cd731e2732e3497dde47722ae88f3d707827dfca14"
-metafile = true
-
-[[files]]
-file = "mods/unusual_end.pw.toml"
-hash = "55012f237f7e0575e69a28510cdb29faaf9f3a5aff20c5742814ddfe0f4de551"
 metafile = true
 
 [[files]]
