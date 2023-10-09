@@ -381,11 +381,6 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
-metafile = true
-
-[[files]]
 file = "mods/forgotten-delight.pw.toml"
 hash = "3fc6c573f871322fd5ea962d943dc5e976052c5b0b11b10f19715c3bc052a99b"
 metafile = true
