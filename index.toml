@@ -989,3 +989,13 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d24a314558cf5a7f38417e99d558d90b88264ddff17c9d8f825d0b743aa55bf1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/integrated-stronghold-alexs-mobs-integration.pw.toml"
+hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/integrated-stronghold-end-remastered-integration.pw.toml"
+hash = "29d544acb1a7d3e280a911c3bf13d620a745690b901ea6cc9a5af3203f3f7b9c"
+metafile = true
