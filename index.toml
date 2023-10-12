@@ -371,6 +371,11 @@ hash = "99da570f631189dfb663f02ac4cf72ab28d3022495e1345f7655c442c98f4fbb"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "5d31747b69a3c0fc9ac7971020ca2a2247619a422ffcf4d7a5f2b6f650ec1aa1"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "36560cdaa4a9d63651ad2781bec400cfd166f450eb49e76307bb28c631ed1d85"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "85f5203ce7deb399563d5af93810f57b67a0ace0fc8d07f66a714b91f88e1156"
 metafile = true
 
 [[files]]
@@ -523,11 +533,6 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "ed9294e17b26a43a4740fc020b18863166894d08103e93290993c1344ea37620"
-metafile = true
-
-[[files]]
-file = "mods/knight-quest.pw.toml"
-hash = "559af3edd20fb36e75857385672b1af5aa3459e283bbfee8357aed8ac238c5ea"
 metafile = true
 
 [[files]]
@@ -741,6 +746,11 @@ hash = "548f40cb7a98793d67bf6ad896d808198611ac730c26154b8153b9e22883fa91"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "eba7c6e3bcd041cf3deaeaa676c56f6c45133ffaca0febf099eb9c06150cd7ef"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
 metafile = true
@@ -923,6 +933,16 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "723ab48d700ab75d2a2d13e08dcdd57955b1def406d8bf7c150475b0c7331358"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "abf3caed290977a3943d18ba395ad9c8d363c73b3cf74aed7aa5ad8c374f2e18"
 metafile = true
 
 [[files]]
