@@ -276,6 +276,16 @@ hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed-guns.pw.toml"
+hash = "90503b1b5e509a04b88569ebc384bb938025978ac9a53ece4374c1134e55b25d"
+metafile = true
+
+[[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "5d9aa68db8ad8a7bfc9aae2298e56b76d690b165f618b8cee4f565109e96ab9b"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "7c4ce02842ac040273ae9c08f527c55168ea18be073ebfc0aa6d279b8f1033fb"
 metafile = true
@@ -292,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e383476cde5d88b8f24936f1030defde1b202e6eedd52e078169f19fc7735c7c"
+hash = "e00f1ba81c878e1c388633d4488c9ba81397053194757c9097ff84ceca9ffabf"
 metafile = true
 
 [[files]]
@@ -398,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/forgotten-delight.pw.toml"
 hash = "3fc6c573f871322fd5ea962d943dc5e976052c5b0b11b10f19715c3bc052a99b"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
 metafile = true
 
 [[files]]
@@ -653,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
 metafile = true
 
 [[files]]

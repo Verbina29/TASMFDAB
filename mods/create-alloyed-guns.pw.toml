@@ -1,0 +1,13 @@
+name = "Create: Alloyed Guns"
+filename = "alloyedguns-1.1.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b4ec606110c487a26d42c82302c2328b8361174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722487
+project-id = 757052
