@@ -66,6 +66,10 @@ hash = "75705ed2a85779fa19e1164df0b5162bd0b3a8f0fb9ccc1059deb2d5112e3221"
 metafile = true
 
 [[files]]
+file = "kubejs/server_scripts/guns.js"
+hash = "3149294188e75a16bd5415bdf14549c67652721127012181b9b01c44cf190eac"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "4e39ccb7de4aff79642cd136f46377f41c9573c2848a9e39190d9a4b6266c65c"
 metafile = true
