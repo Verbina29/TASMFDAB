@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
@@ -497,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "8e268847abdbca3537274c363bd0573711275aecf4009316dd3f94ee84d08a96"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
 metafile = true
 
 [[files]]
@@ -676,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "b3cf7b7b3673183a9aedfc4a77c1a3d071f25ee304a683c27ed9757d2aa052c6"
+hash = "4827f88de14fe5fb00e5c85c8840ac68b052a74731a88975a8e8851d4a546030"
 metafile = true
 
 [[files]]
@@ -725,8 +730,13 @@ hash = "eb33e2c8ec06d4242a1fc4bd3c7176754274d3a271d601f853179e75ac134d69"
 metafile = true
 
 [[files]]
+file = "mods/occultism-kubejs.pw.toml"
+hash = "fd24cdceab61ad051140f3c7f3eb8b9ae54ca739f70b0342dbd6e37eb5d88b2c"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
-hash = "c0055e4e48567ffcea1b02fb4d57c917fa12424179266e1cdd28893da87e0e30"
+hash = "fea23b6c0a199bac327f8d216d27be91f49191dc0c8aeea097ece4fea1538f77"
 metafile = true
 
 [[files]]
@@ -756,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
@@ -856,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "db5e543267868533b9d6957829f6fa302a2cf2460c3b8a90602810f42a1f83c4"
+hash = "b933bc94d6ddd24c1dd26badefca4afe5714a42324de362a489f1f5465d2dccd"
 metafile = true
 
 [[files]]
@@ -986,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
+hash = "cc1f850044950f528a8cced0a92275a8b5d526dcb005f20385f4ad4213dc7c85"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Titanium"
-filename = "titanium-1.19.2-3.7.3-27.jar"
+filename = "titanium-1.19.2-3.7.4-28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/C671K5PG/titanium-1.19.2-3.7.3-27.jar"
 hash-format = "sha1"
-hash = "ae3b918bfc1c03981af47a833780ba6a19ca6382"
+hash = "10c1873f8b3acc974cfeb5ad29253f4023ee25aa"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "1Ro7m06l"
-version = "C671K5PG"
+[update.curseforge]
+file-id = 4786622
+project-id = 287342
