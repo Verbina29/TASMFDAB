@@ -1,6 +1,6 @@
 // priority: 0
 
-// Visit the wiki for more info - https://kubejs.com/
+// Not only guns anymore :3
 
 console.info('Hello, World! (Loaded server scripts)')
 
@@ -52,5 +52,30 @@ ServerEvents.recipes(e => {
 	E: 'immersiveengineering:gunpowder_barrel',
 	F: 'alloyedguns:basic_gun_kit',
 	G: 'create:precision_mechanism'
+  })
+  e.shaped(
+  Item.of('enigmaticlegacy:soul_crystal', 1),
+  [ 
+    'ATA', 
+    'QBQ',
+    'ATA'  
+  ],
+  {
+    A: 'minecraft:netherite_scrap', 
+    T: 'mekanism:teleportation_core',
+    Q: 'mekanism:quantum_entangloporter',
+	B: 'mekanism:pellet_polonium'
+  })
+  e.shaped(
+  Item.of('enigmaticlegacy:soul_crystal', 1),
+  [ 
+    'ADA', 
+    'DBD',
+    'ADA'  
+  ],
+  {
+    A: 'minecraft:netherite_scrap', 
+    D: 'botania:mana_diamond',
+	B: 'deeperdarker:heart_of_the_deep'
   })
 })
