@@ -11,7 +11,7 @@
 	voiceServerEnabled = true
 	#TCP port for the Voice server to listen on.
 	#Range: 1 ~ 65535
-	VoicePort = 36123
+	VoicePort = 25565
 
 	#Config options regarding spawning of entities.
 	[additions.spawning]

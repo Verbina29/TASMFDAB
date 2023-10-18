@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/additions.toml"
-hash = "64fcad960798844d7c188e683ce2f20ec3aa268f650b04f997904ed8d386f51a"
+hash = "82cf474fd201b66fc5a1be047ebabff452c685c520d0e58277fe59a336fde71a"
 
 [[files]]
 file = "config/openloader/data/integrated-stronghold-alexs-mobs-integration.pw.toml"
