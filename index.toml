@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/additions.toml"
+file = "config/Mekanism/additions.toml"
 hash = "82cf474fd201b66fc5a1be047ebabff452c685c520d0e58277fe59a336fde71a"
 
 [[files]]
