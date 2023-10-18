@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/additions.toml"
+hash = "64fcad960798844d7c188e683ce2f20ec3aa268f650b04f997904ed8d386f51a"
+
+[[files]]
 file = "config/openloader/data/integrated-stronghold-alexs-mobs-integration.pw.toml"
 hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
 metafile = true
@@ -645,6 +649,11 @@ hash = "357c85d0560854f6c52e24deef591b02cd57fea8f4f3b3e26edff42dcc7fac3e"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "4a3bba5ee25abee71e11f41208f0ae7f09d48dbd43099b52ef1750532d0247fe"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "6954a458df0f72f65d2ba8131d6735059a9b2be4f711285ba887b32f8f7377d8"
 metafile = true
@@ -656,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
+hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
 metafile = true
 
 [[files]]
