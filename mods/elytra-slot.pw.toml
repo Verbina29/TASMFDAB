@@ -1,0 +1,13 @@
+name = "Elytra Slot (Fabric/Forge/Quilt)"
+filename = "elytraslot-forge-6.1.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c584c25f0f0117945a54f0270b931c5f41c0b3fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4519258
+project-id = 317716

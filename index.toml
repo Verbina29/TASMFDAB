@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Mekanism/additions.toml"
-hash = "82cf474fd201b66fc5a1be047ebabff452c685c520d0e58277fe59a336fde71a"
+hash = "64fcad960798844d7c188e683ce2f20ec3aa268f650b04f997904ed8d386f51a"
 
 [[files]]
 file = "config/openloader/data/integrated-stronghold-alexs-mobs-integration.pw.toml"
@@ -194,6 +194,11 @@ hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "46a52103b23051669421d42a5ce5355180bd1668dc78de38fec3180b784c7a94"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -224,6 +229,11 @@ hash = "7fa004b13e7bc5024e529e77e1f9eed9111d4652aaaf23c7054325a474623c42"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "4b75fd7d47d17dd2b68d4e28417364c997cd3acbff194f73ef80ed8bba588189"
 metafile = true
@@ -234,18 +244,23 @@ hash = "aff5d172f2ef0d9f9a8e2ce00d5fcc864cafb15dc929d9e95e5d08e295fe7258"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "6558eff578b94c2204e737550aacbdb63b15236418359be744aeefc1950bcb22"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "4b77a0ebc231a20fd3e2a9c7eca190353dbe00cdc13230e695edb2f5749278b7"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "10df21b71928137330e8c829b444ba3bb04ae9c4ace0160636d1e7375196d346"
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
 
 [[files]]
-file = "mods/caelus.pw.toml"
-hash = "1d51fa0d3f0ca14c66f425643120f147d5eec29d48c5ac595351db20cdf9ee75"
+file = "mods/charm-of-undying.pw.toml"
+hash = "52723d1fe9d6d39ca8041665d117305e1ca863e04bce7ede8f0b878c6fa8576b"
 metafile = true
 
 [[files]]
@@ -279,6 +294,11 @@ hash = "d6f4d4c883e313a95a74bf66922bedb503c6f5664cbfac8e128982f3bb37d735"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
 metafile = true
@@ -296,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
 
 [[files]]
@@ -361,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "2c947159a3c1922d90420fabce6c228b8cf6663498f7ffe592ac025e069730c5"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
 
 [[files]]
@@ -531,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
